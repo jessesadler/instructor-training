@@ -160,15 +160,9 @@ organisation before starting the training.
 
 ![](fig/Scene_1_blue_stickies_labeled.jpeg){alt='Image of action figures in a workshop with Instructor, Co-Instructor, helper, and Sticky Notes labeled' width="900px" }
 
-Software Carpentry, Data Carpentry, and Library Carpentry
-are official Lesson Programs of The Carpentries.
 The Carpentries is a **global community of volunteer researchers, educators, and others** oriented around
 improving basic computing and data skills for
 researchers through intensive, short-format workshops.
-
-- Software Carpentry focuses on helping researchers develop foundational computational skills
-- Data Carpentry focuses on helping researchers work effectively with their data through its lifecycle
-- Library Carpentry focuses on teaching data skills to people working in library- and information-related roles.
 
 The main goal of The Carpentries is not to teach specific skills, per se - although those
 are covered - but rather, to convey best practices that will enable
