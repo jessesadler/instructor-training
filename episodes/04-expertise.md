@@ -290,6 +290,8 @@ but if our aim is to convince people that they can learn this stuff,
 and that doing so will help them do more research faster,
 computer science concepts are less compelling than things like automating repetitive tasks.
 
+**note** TODO: Add something that is not a computer-science based example, for e.g. something like "When you are teaching a history class, you are not teaching them historiography"; you are teaching biology not biologists, etc.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
