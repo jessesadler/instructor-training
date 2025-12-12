@@ -135,14 +135,6 @@ Now, we would like to get to know all of you.
 For the multiple choice questions below, please place an "X" next to the response(s) that best apply to you. Then find yourself a spot
 in the Etherpad below to write a short response to the last question.
 
-**Have you ever participated in a Software Carpentry, Data Carpentry, or Library Carpentry Workshop?**
-
-1. Yes, I have taken a workshop.
-2. Yes, I have been a workshop helper.
-3. Yes, I organised a workshop.
-4. No, but I am familiar with what is taught at a workshop.
-5. No, and I am not familiar with what is taught at a workshop.
-
 
 **Which of these most accurately describes your teaching experience?**
 
