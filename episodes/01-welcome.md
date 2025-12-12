@@ -174,7 +174,7 @@ The goal of this training is to provide you with the skills and information you 
 to become a certified Carpentries Instructor. Our expectations of certified
 Instructors is that they:
 
-- be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to The Carpentries audience.
+- be familiar with and understand **how to apply research-based teaching principles**, especially as they apply to adult learners.
 - understand the **importance of a respectful and inclusive classroom environment**; commit to creating such an environment; and be able to identify and implement The Carpentries policies and general practices to accomplish this.
 - **practice and develop skills** in the teaching methods used in The Carpentries workshops.
 - learn enough about The Carpentries organisation to **know where to go for help**, how to start organizing a workshop, and how to get involved with community activities.
