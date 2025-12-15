@@ -246,7 +246,7 @@ can be a worthwhile experience for everyone.
 
 ## Sticky Situations 2: Code of Conduct Violations
 
-As discussed in an [earlier episode](09-eia.md),
+As discussed in an [earlier episode](11-eia.md),
 the Carpentries uses a Code of Conduct as a tool to create an explicitly
 inclusive learning environment. This works well! But while the Code of Conduct may deter
 some kinds of bad behavior, any public event carries a risk that someone will say or do something

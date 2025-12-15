@@ -77,7 +77,7 @@ Some challenges are:
   have questions not directly addressed in the text of the lesson.
 - It can be hard for learners to listen and type at the same time, due to the 
   *split-attention effect* we
-  [discussed earlier](05-memory.md#why-guided-practice-is-important).
+  [discussed earlier](08-memory.md#why-guided-practice-is-important).
   This is why it is
   very important that instructors first explain what they are going to do, then
   say what they are typing as they type it, and then
@@ -94,7 +94,7 @@ learners with continuous opportunities for practice (every time they type in a l
 and continuous feedback (their code either works or fails with an error message). It is
 important to keep in mind, however, that feedback is not helpful if you cannot understand it.
 Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier](08-motivation.md) to make sure this feedback is useful to learners.
+[we learned earlier](09-motivation.md) to make sure this feedback is useful to learners.
 
 - **Debugging as a skill** – while learners may have negative associations with "mistakes" or "typos", it may be useful to re-frame troubleshooting as the routine process of finding and fixing "bugs".
 
@@ -146,7 +146,7 @@ making sure that the points of the Top Ten Tips below have been made.
 7. **Stick to the lesson material.** The core Carpentries lessons are developed collaboratively by many instructors and tried and tested at many workshops.  This means they are very streamlined - which is great when you start teaching them for the first time.  It may be tempting to deviate from the material because you would like to show a neat trick, or demonstrate some alternative way of doing something.  Do not do this, since there is a fair chance you will run into something unexpected that you then have to explain.  If you really want to use something outside of the material, try it out thoroughly before the workshop: run through the lesson as you would during the actual teaching and test the effect of your modification.
   Some instructors use printouts of the lesson material during teaching. Others use a second device (tablet or laptop) when teaching, on which they can view their notes and the Etherpad session.  This seems to be more reliable than displaying one virtual desktop while flipping back and forth to another.
 8. **Leave no learner behind.** You will learn later in the training [how sticky notes can be used to gauge learners' progress and understanding](21-management.md#sticky-notes).
-9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing](08-motivation.md) and to help your learners learn the art of troubleshooting.
+9. **Embrace mistakes.** No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do [error framing](09-motivation.md) and to help your learners learn the art of troubleshooting.
 10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying 'that was fun' after something worked well is a good start.
 
 Read more in [Ten quick tips for teaching with participatory live-coding][live-coding-tips-paper].
