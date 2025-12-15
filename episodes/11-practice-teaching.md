@@ -287,6 +287,15 @@ practice teaching and to get and give feedback in parts 3 and 4.
 [lunar-baboon]: https://web.archive.org/web/20210513225525/http://www.lunarbaboon.com/comics/feedback.html
 [bad-teaching-video]: https://www.youtube.com/watch?v=jxgMVwQamO0
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## A Resources on Preparing to Teach
+
+We encourage you to review the following episodes as a resource when preparing to teach your materials. 
+- [Understanding your audience and examining learning objects](https://carpentries.github.io/instructor-training/instructor/18-preparation.html) 
+- [Developing your introduction and conclusion of a workshop](https://carpentries.github.io/instructor-training/instructor/23-introductions.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
