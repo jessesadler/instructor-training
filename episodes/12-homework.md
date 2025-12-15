@@ -24,6 +24,8 @@ and gave some opportunities to practice teaching. In the remaining parts of the 
 how we build teaching skill and will have more chances for practice and feedback. We will also
 look in some depth at how The Carpentries operates to prepare you for the logistics of teaching a workshop.
 
+*****TODO: SherAaron add language about ending LCT.... Thank you and the Core Team will follow up with you..... 
+
 To prepare for our next session, please:
 
 1. Read about [centrally-organised and self-organised workshops](https://carpentries.org/workshops/#workshop-organising) and our handbook content on [Teaching and Hosting Workshops](https://docs.carpentries.org/resources/workshops/) -- be sure to click through to some of the associated checklists. These summarise commonly asked questions about organizing and running workshops.
