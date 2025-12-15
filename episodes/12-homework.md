@@ -94,6 +94,15 @@ This exercise should take about 10 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::: instructor
+
+It can be helpful to show trainees how can download the etherpad to save it and that while there are no plans to take it down, it is also not guaranteed to stay up forever. 
+
+The button to download is two arrows pointing opposite directions and is toward the top right, unless the etherpad window is narrow, when it moves to bottom left. 
+
+If you use another tool for shared notes, remind them of relevant practices related to that platform (e.g. if a Google Doc is managed by an institution, etc).
+::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - So far, we have learned about how people learn, how to build a positive classroom environment, and how to give feedback.
