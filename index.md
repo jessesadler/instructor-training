@@ -13,7 +13,7 @@ The instructor view has a few features that the learner view does not have:
 
 1. instructor notes like this one where instructors can provide guidance about
   how the particular episode is taught in practice **(you can find an example of
-  this in the [How We Operate episode](episodes/15-carpentries.md))**.
+  this in the [How We Operate episode](episodes/14-carpentries.md))**.
 2. aggregated timing estimates
 3. a schedule integrated into the index page
 

@@ -58,7 +58,7 @@ contact: 'instructor.training@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-welcome.md
 - 02-practice-learning.md
 - 03-coffee.md
@@ -72,8 +72,8 @@ episodes:
 - 11-eia.md
 - 12-homework.md
 - 13-second-welcome.md
-- 14-checkout.md
-- 15-carpentries.md
+- 14-carpentries.md
+- 15-checkout.md
 - 16-coffee.md
 - 17-live.md
 - 18-preparation.md
@@ -86,7 +86,7 @@ episodes:
 - 25-wrap-up.md
 
 # Information for Learners
-learners: 
+learners:
 - training_info.md
 - training_calendar.md
 - checkout.md
@@ -97,13 +97,13 @@ learners:
 - reference.md
 
 # Information for Instructors
-instructors: 
+instructors:
 - icebreakers.md
 - additional_exercises.md
 - instructor-notes.md
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
