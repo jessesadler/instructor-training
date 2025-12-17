@@ -281,9 +281,10 @@ practice teaching and to get and give feedback in parts 3 and 4.
 
 ## A Resources on Preparing to Teach
 
-We encourage you to review the following episodes as a resource when preparing to teach your materials. 
-- [Understanding your audience and examining learning objects](https://carpentries.github.io/instructor-training/instructor/18-preparation.html) 
-- [Developing your introduction and conclusion of a workshop](https://carpentries.github.io/instructor-training/instructor/23-introductions.html)
+We encourage you to review the following episodes as a resource when preparing to teach your materials.
+
+- [Understanding your audience and examining learning objects](18-preparation.md)
+- [Developing your introduction and conclusion of a workshop](23-introductions.md)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

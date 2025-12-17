@@ -261,8 +261,10 @@ This exercise should take about 15 minutes.
 ## Attention Management in Your Workshop
 
 Carpentries lessons include small tasks arranged incrementally
-which are intended to be completed together, through participatory live coding (a technique we will discuss in more detail
-later in this training).
+that are intended to be completed together, through 
+**[participatory live coding](https://en.wikipedia.org/wiki/Live_coding)**.
+We will discuss live coding in greater detail in Parts 3 and 4. If you want to see
+more about using the technique, see [Live Coding is a Skill](17-live.md).
 
 The choices you make as an Instructor may add to or subtract from your learners' cognitive load. Supporting memory consolidation
 can reduce load later on in the workshop, as it reduces the effort of recalling forgotten material. You can also minimise
