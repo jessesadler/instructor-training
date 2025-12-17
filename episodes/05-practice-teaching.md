@@ -167,28 +167,18 @@ it is OK to remind yourself:
 - The feedback is not personal. In many cases, feedback says more about the person giving it than the person receiving it.
 - There are always positives along with the negatives. Save your favourites to review regularly!
 
-:::::::::::::::::::::::::::::::::::::::  challenge
+:::::::::::::::::::::::::::::::::::::::  callout
 
-## Giving Feedback
+## Giving Feedback: 2x2 grid
 
-We will start by observing some examples of teaching and providing some feedback.
+One useful method for organizing feedback is to place feedback in a 2x2 grid:
 
-Watch this [example teaching video][bad-teaching-video] as a group 
-and then give feedback on it: [https://www.youtube.com/watch?v=jxgMVwQamO0][bad-teaching-video]. 
-
-English and Spanish captions are available by clicking the settings icon in the video.
-
-Put your feedback in the Etherpad.
-Organise your feedback along two axes:
 - positive vs. opportunities for growth (sometimes called "negative") and
 - content (what was said) vs. presentation (how it was said).
 
-This exercise should take about 10 minutes.
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Now that you have had some practice observing teaching and giving feedback, let us practice with each other.
+Now let's practice giving feedback to each other.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
@@ -202,10 +192,10 @@ give you more to work with!
 **Distributed trainings:**
 
 1. Split into groups of three.
-2. Individually, spend 5 minutes preparing a 90-second introduction to the topic of
-  the lesson episode you chose before the start of the training course. You will not
-  be live coding.
-3. Get together with your group and have one person introduce their lesson episode to the group.
+2. Individually, spend 5 minutes preparing a 90-second introduction to  either the topic of
+  the lesson episode you chose before the start of the training course or a topic on which
+  you might teach. The goal is to introduce the topic, and so you will not be live coding.
+3. Get together with your group and have one person introduce their topic to the group.
   Keep a strict time limit of 90 seconds per person (one person
   should be responsible for the timekeeping).
 4. After the first person has finished their introduction, share feedback. The person who performed
@@ -217,11 +207,11 @@ give you more to work with!
 **Trainings where trainees are co-located:**
 
 1. Split into groups of three.
-2. Individually, spend 5 minutes preparing a 90-second introduction to the topic of
-  the lesson episode you chose before the start of the training course. You will not
-  be live coding; you can use a whiteboard or other visual aids if available (but
-  this is not required!).
-3. Get together with your group and have each person introduce their lesson episode to the group,
+2. Individually, spend 5 minutes preparing a 90-second introduction to  either the topic of
+  the lesson episode you chose before the start of the training course or a topic on which
+  you might teach. You will not be live coding; you can use a whiteboard or other visual aids\
+  if available (but this is not required!).
+3. Get together with your group and have each person introduce their topic to the group,
   while one person records this (video and audio)
   using a cell phone or some other handheld device.
   Keep a strict time limit of 90 seconds per person (one person
